@@ -39,8 +39,8 @@ This repository showcases a collection of **case studies, dashboards, and analyt
 ---
 
 ## 📬 Connect with Me
-- **LinkedIn:** [linkedin.com/in/monikaverma](https://linkedin.com/in/monikaverma)  
-- **Email:** *(you can add your email if you want)*  
+- **LinkedIn:** [linkedin.com/in/monikaverma](https://linkedin.com/in/monika-verma-letsgo)  
+- **Email:** verma0.monika0@gmail.com 
 - **GitHub:** [github.com/monika-verma-analytics](https://github.com/monika-verma-analytics)
 
 ---

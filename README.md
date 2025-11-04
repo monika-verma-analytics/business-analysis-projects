@@ -2,7 +2,7 @@
 # Case studies and dashboards demonstrating my business analytics and e-commerce insights.
 # 👋 Monika Verma – Business Analytics Portfolio  
 
-Welcome! I'm Monika, an MBA graduate specializing in **Business Analytics**, with hands-on experience in **E-commerce operations and data-driven business insights**.  
+Hey! I'm Monika, an MBA graduate specializing in **Business Analytics**, with hands-on experience in **E-commerce operations and data-driven business insights**.  
 
 This repository showcases a collection of **case studies, dashboards, and analytical projects** that highlight my ability to translate data into strategic business decisions.  
 
